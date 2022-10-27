@@ -1,2 +1,5 @@
 1.Variables in Js
 2.Difference between var , let , const
+3.Date Time variable
+4.Map 
+5.
